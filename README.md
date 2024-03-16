@@ -41,11 +41,11 @@ Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/vasyl-per
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barserkaua&hide_border=true&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=barserkaua&show_icons=true&hide_border=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="gitHub stats">
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=barserkaua&show_icons=true&hide_border=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="gitHub stats">
-</div>
+
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/barserkaua.svg?style=social&label=Follow&maxAge=2592000" alt="followers">
